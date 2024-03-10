@@ -9,19 +9,27 @@ sub_title: "Research lab at the University of California Santa Cruz working to u
 <head>
   <style>
     body {
-          background-image: url('/assets/images/wolbachia.jpeg');
-          background-repeat: no-repeat;
-          background-position: center top;
-          background-attachment: fixed;
-          background-size: 100%;
+      background-color: #ffffff; /* Set background color to white */
+      margin: 0; /* Remove default body margin */
+      padding-top: 100px; /* Add padding to the top to offset header height */
     }
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <link rel="icon" type="image/x-icon" href="/assets/icons/noun-dna-3868788.svg">
     <header>
+      position: fixed; /* Fix the header position */
+      top: 0; /* Position the header at the top */
+      left: 0; /* Align the header to the left */
+      width: 100%; /* Make the header full width */
+      padding: 20px; /* Add padding to the header */
+      background-image: url('/assets/images/wolbachia.jpeg'); /* Set background image for the header */
+      background-repeat: no-repeat; /* Do not repeat the background image */
+      background-position: center top; /* Position the background image */
+      background-size: cover; /* Cover the entire header with the background image */
+      z-index: 1000; /* Set a high z-index to keep the header on top of other elements */
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       <h1 style="font-size: calc(26px + 54*((100vw - 320px) / 960)); color: #4aefbe;">Russell Microbial Symbiosis Lab</h1>
       <p style="font-size: calc(18px + 10*((100vw - 320px) / 960)); color: #4aefbe;"><i>Research lab at the University of California Santa Cruz working to understand the evolutionary and molecular mechanisms underlying host-symbiont interactions.</i></p>
     </header>
