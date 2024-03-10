@@ -18,23 +18,18 @@ background-image: "/assets/images/wolbachia.jpeg"
     }
   </style>
 </head>
-<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {{ page.title | slugify }}">
-  {% include skip-links.html %}
-  <div class="canvas">
-    <div class="wrapper">
-      {% include masthead.html %}
-      <div class="initial-content">
-        <section id="content">
-          <header class="article-header">
-            <h1>{{ page.alt_title }}</h1>
-            <p>{{ page.sub_title }}</p>
-          </header>
-          <article class="page-content">
-            {{ page.introduction | markdownify }}
-          </article>
-        </section>
-      </div>
-    </div>
+<body>
+  <div class="wrapper">
+    {% include masthead.html %}
+    <section id="content">
+      <header class="article-header">
+        <h1>{{ page.alt_title }}</h1>
+        <p>{{ page.sub_title }}</p>
+      </header>
+      <article class="page-content">
+        {{ page.introduction | markdownify }}
+      </article>
+    </section>
   </div>
   {% include footer.html %}
   {% include scripts.html %}
