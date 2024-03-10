@@ -9,16 +9,34 @@
       background-attachment: fixed;
       margin: 0; /* Reset default margin */
       padding: 0; /* Reset default padding */
+      color: white; /* Set default text color */
     }
     .content-wrapper {
       padding: 20px; /* Adjust content padding as needed */
-      color: white; /* Set text color */
+    }
+    /* Navigation Menu Styles */
+    .nav-menu {
+      /* Add your navigation menu styles here */
+    }
+    .nav-menu ul {
+      /* Add your navigation menu styles here */
+    }
+    .nav-menu li {
+      /* Add your navigation menu styles here */
+    }
+    .nav-menu a {
+      /* Add your navigation menu styles here */
     }
   </style>
 </head>
 <body>
+  <nav class="nav-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <!-- Add other navigation menu items here -->
+    </ul>
+  </nav>
   <div class="content-wrapper">
-    {% include masthead.html %}
     <section id="content">
       <header class="article-header">
         <h1>{{ page.alt_title }}</h1>
