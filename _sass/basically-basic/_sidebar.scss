@@ -15,7 +15,7 @@
   transition: visibility 0s 0.3s;
 
   @include breakpoint($large) {
-    max-width: (2.0 * $sidebar-width);
+    max-width: (10.0 * $sidebar-width);
   }
 
   &.is--visible {
