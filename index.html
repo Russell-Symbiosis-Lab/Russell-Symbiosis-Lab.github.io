@@ -1,25 +1,23 @@
----
-layout: home
-paginate: true
-alt_title: "Russell Microbial Symbiosis Lab"
-sub_title: "Research lab at the University of California Santa Cruz working to understand the evolutionary and molecular mechanisms underlying host-symbiont interactions."
-background-image: "/assets/images/wolbachia.jpeg"
----
-
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
 <head>
   {% include head.html %}
   <style>
     body {
-      background-image: url("{{ page.background-image }}");
+      background-image: url("/assets/images/wolbachia.jpeg"); /* Replace this with the actual path */
       background-size: cover;
       background-attachment: fixed;
+      margin: 0; /* Reset default margin */
+      padding: 0; /* Reset default padding */
+    }
+    .content-wrapper {
+      padding: 20px; /* Adjust content padding as needed */
+      color: white; /* Set text color */
     }
   </style>
 </head>
 <body>
-  <div class="wrapper">
+  <div class="content-wrapper">
     {% include masthead.html %}
     <section id="content">
       <header class="article-header">
