@@ -1,53 +1,18 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
-<head>
-  {% include head.html %}
-  <style>
-    body {
-      background-image: url("/assets/images/wolbachia.jpeg"); /* Replace this with the actual path */
-      background-size: cover;
-      background-attachment: fixed;
-      margin: 0; /* Reset default margin */
-      padding: 0; /* Reset default padding */
-      color: white; /* Set default text color */
-    }
-    .content-wrapper {
-      padding: 20px; /* Adjust content padding as needed */
-    }
-    /* Navigation Menu Styles */
-    .nav-menu {
-      /* Add your navigation menu styles here */
-    }
-    .nav-menu ul {
-      /* Add your navigation menu styles here */
-    }
-    .nav-menu li {
-      /* Add your navigation menu styles here */
-    }
-    .nav-menu a {
-      /* Add your navigation menu styles here */
-    }
-  </style>
-</head>
-<body>
-  <nav class="nav-menu">
-    <ul>
-      <li><a href="/">Home</a></li>
-      <!-- Add other navigation menu items here -->
-    </ul>
-  </nav>
-  <div class="content-wrapper">
-    <section id="content">
-      <header class="article-header">
-        <h1>{{ page.alt_title }}</h1>
-        <p>{{ page.sub_title }}</p>
-      </header>
-      <article class="page-content">
-        {{ page.introduction | markdownify }}
-      </article>
-    </section>
-  </div>
-  {% include footer.html %}
-  {% include scripts.html %}
-</body>
-</html>
+---
+layout: home
+paginate: true
+alt_title: "Russell Microbial Symbiosis Lab"
+sub_title: "Research lab at the University of California Santa Cruz working to understand the evolutionary and molecular mechanisms underlying host-symbiont interactions."
+background-image: "/assets/images/wolbachia.jpeg"
+
+introduction: |
+  <i>“All zoology is really ecology. We cannot fully understand the lives of animals without understanding our microbes and our symbioses with them.”</i> 
+
+    -Ed Yong, I Contain Multitudes: The Microbes Within Us and a Grander View of Life  
+  
+  Symbiotic associations between microbes and eukaryotes are ubiquitous and vital for many taxa on Earth. Starting with the original endosymbiosis events that produced mitochondria and chloroplast organelles, these associations have enabled amazing shifts in habitats, niches, and lifestyles.
+
+  Studying these inter-species relationships offers insights into how hosts and symbionts interact and how these associations evolve. However, disentangling the biology of symbiotic organisms living in close contact is a challenging task because often one lives inside the other and both are dependent on the association for survival.
+
+  To robustly test these questions in symbiosis, we use a range of powerful methodological skill and tool-sets, ranging from microscopy, to cell biology, to next-gen sequencing and computational biology, to interrogate the host and symbiont simultaneously. 
+---
