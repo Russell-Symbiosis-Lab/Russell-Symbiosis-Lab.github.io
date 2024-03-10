@@ -4,7 +4,7 @@
 
 .sidebar {
   position: fixed;
-  top: 0;
+  top: -100;
   left: 0;
   width: 100%;
   max-width: $sidebar-width;
@@ -19,9 +19,10 @@
   }
 
   &.is--visible {
+    top: 0;
     visibility: visible;
-    -webkit-transition: visibility 0s 0s;
-    transition: visibility 0s 0s;
+    -webkit-transition: top visibility 0s 0s;
+    transition: top visibility 0s 0s;
   }
 
   li {
