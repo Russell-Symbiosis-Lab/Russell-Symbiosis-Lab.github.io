@@ -1,4 +1,7 @@
 ---
 title: Publications
-layout: cv
 ---
+
+1. Jensen K and Russell SL. 2014. Seussapex, a new genus of lecanicephalidean tapeworm (Platyhelminthes: Cestoda) from the stingray genus Himantura (Myliobatiformes: Dasyatidae) in the Indo-West Pacific with investigation of mode of attachment. Folia Parasitologica 61:231-241.
+
+<object data="../assets/pub_papers/Jensen_Russell_2014_Seussapex-a-new-genus-of-lecanicephalidean-tapeworm-Platyhelminthes.pdf" width="1000" height="1000" type='application/pdf'></object>
