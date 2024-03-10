@@ -20,8 +20,8 @@
 
   &.is--visible {
     visibility: visible;
-    -webkit-transition: top visibility 0s 0s;
-    transition: top visibility 0s 0s;
+    -webkit-transition: visibility 0s 0s;
+    transition: visibility 0s 0s;
   }
 
   li {
