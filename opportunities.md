@@ -17,7 +17,7 @@ We have graduate student positions available through the [Biomolecular Engineeri
 
 ## Undergraduate Students
 
-If you are an undergraduate students who are interested in gaining some research experience in microbial symbiont systems, contact us at <u>shlrusse@ucsc.edu</u> .
+If you are an undergraduate student who are interested in gaining some research experience in microbial symbiont systems, contact us at <u>shlrusse@ucsc.edu</u> .
 Please send a copy of your resume/CV and read through some of our recent publications.
 
 ## Staff
