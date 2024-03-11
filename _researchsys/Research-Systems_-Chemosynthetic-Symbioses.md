@@ -1,5 +1,5 @@
 ---
-title: Research Systems - Chemosynthetic Symbioses
+title: "Research Systems - Chemosynthetic Symbioses"
 ---
 ## Marine Bivalve-bacteria Chemosynthetic Systems: Tractable Model System For Marine Nutritional Symbioses (E.g., Hydrothermal Vent Symbioses)
 
