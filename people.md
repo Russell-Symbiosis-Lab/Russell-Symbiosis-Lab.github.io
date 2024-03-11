@@ -25,7 +25,6 @@ title: People
     </style>
 </head>
 <body>
-  <h2>CURRENT</h2>
     <div class="mem-container">
         <img src="/assets/people_photos/Shelbi.jpg" alt="Shelbi L. Russell" class="portrait">
         <div class="description">
