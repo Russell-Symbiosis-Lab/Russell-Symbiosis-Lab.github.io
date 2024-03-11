@@ -1,3 +1,6 @@
+---
+title: Research Systems - Chemosynthetic Symbioses
+---
 ## Marine Bivalve-bacteria Chemosynthetic Systems: Tractable Model System For Marine Nutritional Symbioses (E.g., Hydrothermal Vent Symbioses)
 
 >“And the most extreme examples of this mutually assured success can be found in the deep oceans, where some microbes supplement their hosts to such a degree that the animals can eat the most impoverished diets of all – nothing.”
