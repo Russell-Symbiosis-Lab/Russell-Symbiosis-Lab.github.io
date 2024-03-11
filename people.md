@@ -25,6 +25,7 @@ title: People
     </style>
 </head>
 <body>
+  <h2>CURRENT</h2>
     <div class="mem-container">
         <img src="/assets/people_photos/Shelbi.jpg" alt="Shelbi L. Russell" class="portrait">
         <div class="description">
@@ -105,6 +106,7 @@ title: People
             <p>A short About Me</p>
         </div>
     </div>
+  <br><br><br>
     <h2>FORMER LAB MEMBERS</h2>
     <p>Kathryn Lewis, Undergraduate Researcher</p>
     <!-- Add more lab members as needed -->
