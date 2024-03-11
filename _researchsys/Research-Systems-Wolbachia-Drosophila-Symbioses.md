@@ -1,1 +1,4 @@
-hooray
+---
+title: hooray
+---
+
