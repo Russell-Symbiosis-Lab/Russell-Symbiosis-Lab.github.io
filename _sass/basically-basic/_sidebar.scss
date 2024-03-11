@@ -94,14 +94,14 @@
     }
 
     /* divider line */
-    &::after {
-      position: absolute;
-      bottom: 0;
-      width: 1.5em;
-      height: 1px;
-      background-color: $base-color;
-      content: "";
-    }
+    // &::after {
+    //   position: absolute;
+    //   bottom: 0;
+    //   width: 1.5em;
+    //   height: 1px;
+    //   background-color: $base-color;
+    //   content: "";
+    // }
 
     li {
       margin-bottom: 1.5rem;
