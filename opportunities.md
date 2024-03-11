@@ -9,7 +9,7 @@ If you are insterested in our research systems, we welcome you to consider joini
 ## Postdoctorate Fellows
 
 We welcome you and if our work aligns with your scientific curiosity and career aspirations, we welcome your enthusiasm and expertise. 
-Please send a brief statement of research interests and a CV with a list of three references to <u>shlrusse@ucsc.edu<u/>.
+Please send a brief statement of research interests and a CV with a list of three references to <u>shlrusse@ucsc.edu</u>.
 
 ## Graduate Students
 
@@ -17,7 +17,7 @@ We have graduate student positions available through the [Biomolecular Engineeri
 
 ## Undergraduate Students
 
-If you are an undergraduate students who are interested in gaining some research experience in microbial symbiont systems, contact us at <u>shlrusse@ucsc.edu<u/>.
+If you are an undergraduate students who are interested in gaining some research experience in microbial symbiont systems, contact us at <u>shlrusse@ucsc.edu</u> .
 Please send a copy of your resume/CV and read through some of our recent publications.
 
 ## Staff
