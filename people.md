@@ -15,9 +15,9 @@ title: People
             margin-bottom: 20px;
         }
         .portrait {
-            width: 200px;
+            width: 300px;
             height: auto;
-            margin-right: 20px;
+            margin-right: 25px;
         }
         .description {
             flex: 1;
