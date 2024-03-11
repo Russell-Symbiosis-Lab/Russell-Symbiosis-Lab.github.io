@@ -1,5 +1,5 @@
 ---
-title: "Research Systems" 
+title: "Research Systems"
 layout: collection
 permalink: /researchsys/
 collection: researchsys
