@@ -13,6 +13,7 @@ entries_layout: grid
   - Tractable experimental marine symbiosis
   - Accessible populations for next-gen short and long read sequencing
   - Results are broadly applicable across these ancient associations
+    
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/Solemya1_Sinepuxant.jpeg){: width="50%"}{: .align-center}
 
 <u>Fruit fly- Wolbachia manipulative symbioses</u>
@@ -20,4 +21,5 @@ entries_layout: grid
   - Symbiont-host co-cell culture
   - High quality symbiont and host nuclear genomes available
   - Bacterial mechanisms for host manipulation can be applied to insect disease vector control
+    
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/russell_lab_web_graphic_wordpress.png){: width="50%"}{: .align-center}
