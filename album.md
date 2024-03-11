@@ -4,4 +4,4 @@ title: Gallery
 
 hello
 
-{% include gallery.html folder="/assets/album" %}
+{% include album.html folder="/assets/album" %}
