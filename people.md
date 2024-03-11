@@ -42,7 +42,7 @@ title: People
         </div>
     </div>
     <div class="mem-container">
-        <img src="/assets/people_photos/cade.jpg" alt="Cade Mirchandani" class="portrait">
+        <img src="/assets/people_photos/cade.jpeg" alt="Cade Mirchandani" class="portrait">
         <div class="description">
             <h2>Cade Mirchandani</h2>
             <p>PhD Student</p>
