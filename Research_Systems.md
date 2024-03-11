@@ -1,7 +1,7 @@
 ---
 title: Research Systems
 layout: collection
-collection: Research_Systems
+collection: researchsys
 entries_layout: grid
 ---
 
