@@ -2,4 +2,4 @@
 title: Gallery
 ---
 hi
-{% include my-gallery.html folder="myfolder" %}
+{% include gallery.html folder="myfolder" %}
