@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Album
 ---
 
 hello
