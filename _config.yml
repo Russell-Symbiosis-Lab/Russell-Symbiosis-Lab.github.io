@@ -86,3 +86,10 @@ defaults:
     values:
       layout: post
       read_time: false
+  # _recipes
+  - scope:
+      path: "_researchsys"
+      type: researchsys
+    values:
+      layout: post
+      read_time: false
