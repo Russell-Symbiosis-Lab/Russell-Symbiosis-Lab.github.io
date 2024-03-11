@@ -24,12 +24,8 @@
   }
 
   a {
-    display: -ms-flexbox;
-    display: -webkit-box;
-    display: flex;
-    -ms-flex-align: center;
-    -webkit-box-align: center;
-    align-items: center;
+    display: flex; /* Change display to flex */
+    align-items: center; /* Vertically center the content */
     min-height: $site-image-height;
     color: black;
     text-decoration: none;
