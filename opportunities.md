@@ -4,7 +4,7 @@ title: Opportunities
 
 <p>We seek individuals who are passionate about the microbial symbiosis and understanding the complex relationship between the symbiont and host.
 We maintain high standards for our research and our team members, expecting a strong commitment to scientific integrity, creativity, and collaboration.</p>
-<p>If you are insterested in our research systems, we welcome you to consider joining us!</p>
+If you are insterested in our research systems, we welcome you to consider joining us!
 
 ## Postdoctorate Fellows
 
