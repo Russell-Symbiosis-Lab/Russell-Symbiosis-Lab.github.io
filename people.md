@@ -20,7 +20,7 @@ title: People
             margin-right: 25px;
         }
         .description {
-            flex: 1;
+            flex: auto;
         }
     </style>
 </head>
