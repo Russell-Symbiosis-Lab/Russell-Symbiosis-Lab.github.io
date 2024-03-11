@@ -41,6 +41,30 @@ title: People
             <p>A short About Me</p>
         </div>
     </div>
-    <!-- Add more employee entries as needed -->
+    <div class="mem-container">
+        <img src="/assets/people_photos/cade.jpg" alt="Cade Mirchandani" class="portrait">
+        <div class="description">
+            <h2>Cade Mirchandani</h2>
+            <p>PhD Student</p>
+            <p>A short About Me</p>
+        </div>
+    </div>
+    <div class="mem-container">
+        <img src="/assets/people_photos/GabeTree.jpg" alt="Gabriel Penunuri" class="portrait">
+        <div class="description">
+            <h2>Gabriel Penunuri</h2>
+            <p>PhD Student</p>
+            <p>A short About Me</p>
+        </div>
+    </div>
+    <div class="mem-container">
+        <img src="/assets/people_photos/pingting.jpg" alt="Pingting Wang" class="portrait">
+        <div class="description">
+            <h2>Pingting (Lisa) Wang</h2>
+            <p>Junior Specialist</p>
+            <p>A short About Me</p>
+        </div>
+    </div>
+    <!-- Add more lab members as needed -->
 </body>
 </html>
